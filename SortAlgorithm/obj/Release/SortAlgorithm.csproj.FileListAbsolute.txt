@@ -1,0 +1,9 @@
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe.config
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.pdb
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.Form1.resources
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.Properties.Resources.resources
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.csproj.GenerateResource.Cache
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.exe
+C:\Users\changenzo\Documents\Visual Studio 2015\Projects\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.pdb
